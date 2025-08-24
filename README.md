@@ -23,7 +23,6 @@ Odyssey Theme is a modern theme/starter for a business or startup's marketing we
   <img src="assets/lh-screenshot.png" alt="Screenshot of perfect score in Lighthouse benchmark">
 </p>
 
-
 - ✅ **A perfect score in Lighthouse**
 - ✅ **Blazing fast performance thanks to Astro 🚀**
 - ✅ **A Full Featured Blog with Tagging**
@@ -34,7 +33,6 @@ Odyssey Theme is a modern theme/starter for a business or startup's marketing we
 - ✅ **Contact Forms Setup for Netlify, Formspree, Formspark, etc.**
 - ✅ **A package of ready-to-use UI components**
 
-
 ## Demo
 
 View a [live demo](https://odyssey-theme.sapling.supply/) of the Odyssey Theme.
@@ -43,6 +41,8 @@ View a [live demo](https://odyssey-theme.sapling.supply/) of the Odyssey Theme.
 
 1. View the [Theme Setup Guide](https://odyssey-theme.sapling.supply/theme/theme-setup)
 2. View the [Customizing the Theme Guide](https://odyssey-theme.sapling.supply/theme/customizing-odyssey)
+3. View the [Get Started Guide](https://odyssey-theme.sapling.supply/theme/get-started)
+4. View the [Style Guide](https://odyssey-theme.sapling.supply/theme/style-guide)
 
 ## Usage
 
